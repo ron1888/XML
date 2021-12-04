@@ -1,7 +1,7 @@
 <bug_report>
   <id>1</id>
   <title>What? Where? When?</title>
-  <severity>low</severity>
+  <severity>Trivial</severity>
   <author>GDN</author>
   <build>v0.1</build>
   <steps_to_reproduse category="steps">
