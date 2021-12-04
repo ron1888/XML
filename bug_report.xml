@@ -1,1 +1,15 @@
-
+<bug_report>
+  <id>1</id>
+  <title>What? Where? When?</title>
+  <priority>low</priority>
+  <author>GDN</author>
+  <build>v0.1</build>
+  <steps_to_reproduse category="steps">
+    <step_1>step</step_1>
+    <step_2>step</step_2>
+    <step_3>step</step_3>
+    <step_4>step</step_4>
+  </steps_to_reproduse>
+  <expected_result>result</expected_result>
+  <actual_result>result</actual_result>
+</bug_repor>
