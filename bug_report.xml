@@ -10,6 +10,6 @@
     <step_3>step</step_3>
     <step_4>step</step_4>
   </steps_to_reproduse>
-  <expected_result>result</expected_result>
   <actual_result>result</actual_result>
+  <expected_result>result</expected_result>
 </bug_repor>
